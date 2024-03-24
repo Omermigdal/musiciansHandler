@@ -1,3 +1,2 @@
 # musicians_Project_C
-First year ssecond semester.
-A database this program interacts with a database of musicians in order to gather a band.
+1st year second semester project of "Advanced C programming" course. Grade 97%
